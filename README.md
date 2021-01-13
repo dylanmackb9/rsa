@@ -1,4 +1,4 @@
-# rsa
+# RSA Encryption
 
 Implementing a backend to a local public-key RSA encryption cryptosystem for texting. 
 
